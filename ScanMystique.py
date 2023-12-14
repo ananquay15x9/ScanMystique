@@ -130,7 +130,7 @@ def main():
     root = tk.Tk()
     root.title("ScanMystique")
 
-    targets_label = tk.Label(root, text="Enter target IPs, IP ranges, or URLs separated by commas:")
+    targets_label = tk.Label(root, text="Enter target IPs, IP ranges, or URLs:")
     targets_label.pack()
 
     targets_entry = tk.Entry(root)
