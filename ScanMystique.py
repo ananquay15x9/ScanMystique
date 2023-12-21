@@ -9,7 +9,7 @@
 #   uu2
 #
 # GitHub Repository:
-#   [Link to the GitHub repository]
+#   https://github.com/ananquay15x9/ScanMystique
 #
 # Date: 12/13/2023
 # -------------------------------------------------------------------------
