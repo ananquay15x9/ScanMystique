@@ -82,7 +82,7 @@ python ScanMystique.py
     - Click the "Start Scan" button. The tool will display a comprehensive reoprt including detected operating systems, open ports, and service versions. 
 
 4. **Stay Legal and Ethical:**
-    - Ensure that you ahev the right to scan the specified targets, and always adhere to legal and ethical guidelines. Unauthorized scanning of networks is illegal and unethical.
+    - Ensure that you have the right to scan the specified targets, and always adhere to legal and ethical guidelines. Unauthorized scanning of networks is illegal and unethical.
 
 
 ## Contributing 🤝
